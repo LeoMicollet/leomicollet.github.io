@@ -1,20 +1,25 @@
 ---
-title: "Who am I"
+title: "Home"
 image : img/bougle.jpg
 toc: false
 about: 
-  template: trestles
+  template: solana
   image-shape: round
   image-width: 17em
   links:
-    - text: LinkedIn
+    - icon: linkedin
+      text: LinkedIn
       href: https://www.linkedin.com/in/leo-micollet
-    - text: GitHub
+      target: _blank
+    - icon: github
+      text: GitHub
       href: https://github.com/LeoMicollet
-    - text: Email
+      target: _blank
+    - icon: envelope
+      text: Email
       href: mailto:leo.micollet@inrae.fr
+
 ---
 
-This is my site
+Currently doing a PhD in applied mathematics for biology at [INRAE](https://mia-ps.inrae.fr/node/724)
 
-Yessir

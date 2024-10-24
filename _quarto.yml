@@ -1,19 +1,23 @@
 project:
   type: website
   output-dir: docs
-  
+
 website:
   title: "Leo Micollet"
+  favicon: img/lost_BMO.png
   navbar:
     left:
       - href: index.qmd
         #text: Home
-      - about.qmd
-    right:
       - research.qmd
+    right:
+      - about.qmd
+  page-footer:
+    background: light
+    center: Copyright 2024, Leo Micollet
 
 format:
   html:
-    theme: vapor
+    theme: styles.scss
     css: styles.css
     toc: true

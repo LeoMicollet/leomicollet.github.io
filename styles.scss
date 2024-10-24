@@ -1,0 +1,29 @@
+/*-- scss:defaults --*/
+
+// Colors
+$dark-green: #858E79;
+$light-green: #D1D9CE;
+$cream: #FDFBF7;
+$gray: #64605f;
+$purple: #9158A2;
+$light-purple: #C3A6D1;
+$orange: #ad7237;
+
+// Base document colors
+$navbar-bg: $purple; // navbar
+$navbar-fg: $light-purple; // navbar foreground elements
+$navbar-hl: $cream; // highlight color when hovering over navbar links
+$body-bg: $cream; // page background 
+$body-color: $gray; // page text 
+$footer-bg: $gray; // footer 
+$link-color: $purple; // hyperlinks 
+
+// Inline code
+$code-bg: $gray; // inline code background color
+$code-color: $purple; // inline code text color
+
+p{
+  text-align: justify;
+}
+
+/*-- scss:rules --*/

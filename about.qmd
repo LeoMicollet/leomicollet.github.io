@@ -1,11 +1,15 @@
 ---
-title: "What's my name"
+title: "Who am I ?"
 ---
 
-About my site
+Leo, 1m95 of mathematics and curly hairs.
 
-# Je suis qui ?
+## What am I working on ?
+* Subject: Stochastic and deterministic modeling of insect population control by releasing sterile males - Applications in agro-ecology and epidemiology.
 
-## Hello, my name is Leo
+* Started on October 2024.
 
-## Doctorant INRAE
+* Supervised by [Camille Coron](https://camillecoron.github.io/) and [Luis Almeida](https://www.ljll.fr/~almeida/).
+
+## What do I like ?
+Mosquitoes, stochastic calculus and Adventure time.

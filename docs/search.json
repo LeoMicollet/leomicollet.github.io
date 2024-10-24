@@ -2,9 +2,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "What’s my name",
+    "title": "Who am I ?",
     "section": "",
-    "text": "About my site"
+    "text": "Leo, 1m95 of mathematics and curly hairs."
   },
   {
     "objectID": "about.html#hello-my-name-is-leo",
@@ -18,7 +18,7 @@
     "href": "about.html#doctorant-inrae",
     "title": "What’s my name",
     "section": "Doctorant INRAE",
-    "text": "Doctorant INRAE"
+    "text": "Doctorant INRAE\nSujet : Modélisation stochastique et déterministe de contrôle de populations d’insectes par lâchers de mâles stériles - Applications en agro-écologie et épidémiologie\nEncadré par Camille Coron et Luis Almeida"
   },
   {
     "objectID": "research.html",
@@ -30,8 +30,22 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Who am I",
+    "title": "Home",
     "section": "",
-    "text": "This is my site\nYessir"
+    "text": "Currently doing a PhD in applied mathematics for biology at INRAE"
+  },
+  {
+    "objectID": "about.html#what-do-i-like",
+    "href": "about.html#what-do-i-like",
+    "title": "Who am I ?",
+    "section": "What do I like ?",
+    "text": "What do I like ?\nMosquitoes, stochastic calculus and Adventure time."
+  },
+  {
+    "objectID": "about.html#what-am-i-working-on",
+    "href": "about.html#what-am-i-working-on",
+    "title": "Who am I ?",
+    "section": "What am I working on ?",
+    "text": "What am I working on ?\n\nSubject: Stochastic and deterministic modeling of insect population control by releasing sterile males - Applications in agro-ecology and epidemiology.\nStarted on October 2024.\nSupervised by Camille Coron and Luis Almeida."
   }
 ]
