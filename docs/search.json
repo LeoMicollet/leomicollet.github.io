@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Who am I",
-    "section": "",
-    "text": "This is my site Yessir"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "What’s my name",
@@ -19,13 +12,6 @@
     "title": "What’s my name",
     "section": "Hello, my name is Leo",
     "text": "Hello, my name is Leo"
-  },
-  {
-    "objectID": "about.html#donctorant-inrae",
-    "href": "about.html#donctorant-inrae",
-    "title": "What’s my name",
-    "section": "Donctorant INRAE",
-    "text": "Donctorant INRAE"
   },
   {
     "objectID": "about.html#doctorant-inrae",

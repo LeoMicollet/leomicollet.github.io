@@ -1,6 +1,7 @@
 project:
   type: website
-
+  output-dir: docs
+  
 website:
   title: "Leo Micollet"
   navbar:
@@ -16,5 +17,3 @@ format:
     theme: vapor
     css: styles.css
     toc: true
-
-editor: visual
