@@ -10,11 +10,12 @@ website:
       - href: index.qmd
         #text: Home
       - research.qmd
+      - teaching.qmd
     right:
       - about.qmd
-  page-footer:
-    background: light
-    center: Copyright 2024, Leo Micollet
+  #page-footer:
+  #  background: light
+  #  left: Copyright 2024, Leo Micollet
 
 format:
   html:
