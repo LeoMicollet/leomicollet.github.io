@@ -1,0 +1,20 @@
+project:
+  type: website
+
+website:
+  title: "Leo Micollet"
+  navbar:
+    left:
+      - href: index.qmd
+        #text: Home
+      - about.qmd
+    right:
+      - research.qmd
+
+format:
+  html:
+    theme: vapor
+    css: styles.css
+    toc: true
+
+editor: visual
