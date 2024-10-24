@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Leo Micollet"
-  favicon: img/lost_BMO.png
+  favicon: img/lost_BMOXL.png
   navbar:
     left:
       - href: index.qmd
