@@ -1,6 +1,6 @@
 ---
 title: "Home"
-image : img/bougle.jpg
+image : img/SunnyMe.jpg
 toc: false
 about: 
   template: solana
