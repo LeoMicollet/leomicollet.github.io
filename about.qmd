@@ -1,15 +1,15 @@
 ---
-title: "Who am I ?"
+title: "Who am I?"
 ---
 
-Leo, 1m95 of mathematics and curly hairs.
+Leo, 1.95m of mathematics and curly hair. Based at the Plateau de Saclay since September 2020, and won't leave before 2027 (at least).
 
-## What am I working on ?
-* Subject: Stochastic and deterministic modeling of insect population control by releasing sterile males - Applications in agro-ecology and epidemiology.
+## Where am I from?
+* Engineering degree from ENSTA Paris with a research Master's (M2 MSV - Mathematics for Life Sciences) from Université Paris Saclay.
 
-* Started on October 2024.
+* Prépa TSI at Lazaristes.
 
-* Supervised by [Camille Coron](https://camillecoron.github.io/) and [Luis Almeida](https://www.ljll.fr/~almeida/).
+* Bac STI2D, c la débrouille.
 
-## What do I like ?
-Mosquitoes, stochastic calculus and Adventure time.
+## What do I like?
+Adventure Time, Stochastic Calculus, and Mosquitoes.

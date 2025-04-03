@@ -2,9 +2,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "Who am I ?",
+    "title": "Who am I?",
     "section": "",
-    "text": "Leo, 1m95 of mathematics and curly hairs."
+    "text": "Leo, 1.95m of mathematics and curly hair. Based at the Plateau de Saclay since September 2020, and won’t leave before 2027 (at least)."
   },
   {
     "objectID": "about.html#hello-my-name-is-leo",
@@ -25,7 +25,7 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Hello there"
+    "text": "Subject: Stochastic and deterministic modeling of insect population control by releasing sterile males - Applications in agro-ecology and epidemiology.\nStarted on October 2024.\nSupervisors: Camille Coron and Luis Almeida."
   },
   {
     "objectID": "index.html",
@@ -37,9 +37,9 @@
   {
     "objectID": "about.html#what-do-i-like",
     "href": "about.html#what-do-i-like",
-    "title": "Who am I ?",
-    "section": "What do I like ?",
-    "text": "What do I like ?\nMosquitoes, stochastic calculus and Adventure time."
+    "title": "Who am I?",
+    "section": "What do I like?",
+    "text": "What do I like?\nAdventure Time, Stochastic Calculus, and Mosquitoes."
   },
   {
     "objectID": "about.html#what-am-i-working-on",
@@ -53,6 +53,41 @@
     "href": "teachings.html",
     "title": "Teachings",
     "section": "",
-    "text": "Hello there"
+    "text": "Teaching Assistant for Statistics (33 hours) for first-year students at AgroParisTech.\nTeaching Assistant for the course “Data Science: Statistical Learning” (19.5 hours) for second-year students at AgroParisTech.\nTeaching Assistant for the course “Modeling and Analysis of Environmental Data in R” (6 hours) for second-year students at AgroParisTech."
+  },
+  {
+    "objectID": "research.html#my-phd",
+    "href": "research.html#my-phd",
+    "title": "Research",
+    "section": "",
+    "text": "Subject: Stochastic and deterministic modeling of insect population control by releasing sterile males - Applications in agro-ecology and epidemiology.\nStarted on October 2024.\nSupervisors: Camille Coron and Luis Almeida."
+  },
+  {
+    "objectID": "teachings.html#academic-year-2024-2025",
+    "href": "teachings.html#academic-year-2024-2025",
+    "title": "Teachings",
+    "section": "",
+    "text": "Teaching Assistant for Statistics (33 hours) for first-year students at AgroParisTech.\nTeaching Assistant for the course “Data Science: Statistical Learning” (19.5 hours) for second-year students at AgroParisTech.\nTeaching Assistant for the course “Modeling and Analysis of Environmental Data in R” (6 hours) for second-year students at AgroParisTech."
+  },
+  {
+    "objectID": "about.html#where-im-from",
+    "href": "about.html#where-im-from",
+    "title": "Who am I ?",
+    "section": "Where I’m from ?",
+    "text": "Where I’m from ?\n\nEngineer from ENSTA Paris with a research M2 from Université Paris Saclay (M2 MSV- Mathematics for Life Science).\nPrépa TSI at Lazaristes.\nBac STI2D, c la débrouille."
+  },
+  {
+    "objectID": "about.html#where-am-i-from",
+    "href": "about.html#where-am-i-from",
+    "title": "Who am I?",
+    "section": "Where am I from?",
+    "text": "Where am I from?\n\nEngineering degree from ENSTA Paris with a research Master’s (M2 MSV - Mathematics for Life Sciences) from Université Paris Saclay.\nPrépa TSI at Lazaristes.\nBac STI2D, c la débrouille."
+  },
+  {
+    "objectID": "research.html#research-interests",
+    "href": "research.html#research-interests",
+    "title": "Research",
+    "section": "Research Interests",
+    "text": "Research Interests\nI study stochastic tools such as branching processes, birth-death processes, and stochastic diffusion to model the behavior of insect populations, specifically Aedes polynesiensis, based on data from the Tetiaroa atoll.\nMy research focuses on studying the conditions for extinction or control of extinction of a given population using Sterile Insect Technique (SIT) or Incompatible Insect Technique (IIT)."
   }
 ]
