@@ -3,6 +3,11 @@ title: "Teachings"
 format: html
 ---
 
+## Academic Year 2025-2026
+* Teaching Assistant for [Statistics](https://ecampus.paris-saclay.fr/course/view.php?id=153544) (33 hours) for first-year students at AgroParisTech.
+
+* Teaching Assistant for the course "[Data Science: Statistical Learning](https://ecampus.paris-saclay.fr/course/view.php?id=153085)" (7.5 hours) for second-year students at AgroParisTech.
+
 ## Academic Year 2024-2025
 * Teaching Assistant for [Statistics](https://ecampus.paris-saclay.fr/course/view.php?id=153544) (33 hours) for first-year students at AgroParisTech.
 
