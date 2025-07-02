@@ -2,7 +2,7 @@
 title: "Who am I?"
 ---
 
-Leo, based at the Plateau de Saclay since September 2020, and won't leave before 2027 (at least).
+Leo, based at the Plateau de Saclay since September 2020, and won't leave before October 2027 (at least).
 
 ## Where am I from?
 * Engineering degree from ENSTA Paris with a research Master's (M2 MSV - Mathematics for Life Sciences) from Université Paris Saclay.

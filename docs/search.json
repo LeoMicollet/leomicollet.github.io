@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "Who am I?",
     "section": "",
-    "text": "Leo, based at the Plateau de Saclay since September 2020, and won’t leave before 2027 (at least)."
+    "text": "Leo, based at the Plateau de Saclay since September 2020, and won’t leave before October 2027 (at least)."
   },
   {
     "objectID": "about.html#hello-my-name-is-leo",
@@ -32,7 +32,7 @@
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "Currently doing a PhD in applied mathematics for biology at MIA-PS\nFor now, this website is empty. Restez branché l’équipe."
+    "text": "Currently doing a PhD in applied mathematics for biology at MIA-PS\nFor now, this website is empty. Restez branché."
   },
   {
     "objectID": "about.html#what-do-i-like",
@@ -53,7 +53,7 @@
     "href": "teachings.html",
     "title": "Teachings",
     "section": "",
-    "text": "Teaching Assistant for Statistics (33 hours) for first-year students at AgroParisTech.\nTeaching Assistant for the course “Data Science: Statistical Learning” (19.5 hours) for second-year students at AgroParisTech.\nTeaching Assistant for the course “Modeling and Analysis of Environmental Data in R” (6 hours) for second-year students at AgroParisTech."
+    "text": "Teaching Assistant for Statistics (33 hours) for first-year students at AgroParisTech.\nTeaching Assistant for the course “Data Science: Statistical Learning” (7.5 hours) for second-year students at AgroParisTech."
   },
   {
     "objectID": "research.html#my-phd",
@@ -66,8 +66,8 @@
     "objectID": "teachings.html#academic-year-2024-2025",
     "href": "teachings.html#academic-year-2024-2025",
     "title": "Teachings",
-    "section": "",
-    "text": "Teaching Assistant for Statistics (33 hours) for first-year students at AgroParisTech.\nTeaching Assistant for the course “Data Science: Statistical Learning” (19.5 hours) for second-year students at AgroParisTech.\nTeaching Assistant for the course “Modeling and Analysis of Environmental Data in R” (6 hours) for second-year students at AgroParisTech."
+    "section": "Academic Year 2024-2025",
+    "text": "Academic Year 2024-2025\n\nTeaching Assistant for Statistics (33 hours) for first-year students at AgroParisTech.\nTeaching Assistant for the course “Data Science: Statistical Learning” (19.5 hours) for second-year students at AgroParisTech.\nTeaching Assistant for the course “Modeling and Analysis of Environmental Data in R” (6 hours) for second-year students at AgroParisTech."
   },
   {
     "objectID": "about.html#where-im-from",
@@ -88,6 +88,13 @@
     "href": "research.html#research-interests",
     "title": "Research",
     "section": "Research Interests",
-    "text": "Research Interests\nI study stochastic tools such as branching processes, birth-death processes, and stochastic diffusion to model the behavior of insect populations, specifically Aedes polynesiensis, based on data from the Tetiaroa atoll.\nMy research focuses on studying the conditions for extinction or control of extinction of a given population using Sterile Insect Technique (SIT) or Incompatible Insect Technique (IIT)."
+    "text": "Research Interests\nMy research focuses on the control of a given population using Sterile Insect Technique (SIT) or Incompatible Insect Technique (IIT) using stochastic models.\nMy work aims to understand the dynamics of these populations, with properties such as extinction, reemergence, and the impact of environmental covariables on the population dynamics.\nI study stochastic tools such as branching processes, birth-death processes and their limiting behavior, such as deterministic systems and stochastic diffusion models. Specifically, I focus on the Aedes genus, using real data from the Tetiaroa atoll."
+  },
+  {
+    "objectID": "teachings.html#academic-year-2025-2026",
+    "href": "teachings.html#academic-year-2025-2026",
+    "title": "Teachings",
+    "section": "",
+    "text": "Teaching Assistant for Statistics (33 hours) for first-year students at AgroParisTech.\nTeaching Assistant for the course “Data Science: Statistical Learning” (7.5 hours) for second-year students at AgroParisTech."
   }
 ]

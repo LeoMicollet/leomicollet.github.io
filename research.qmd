@@ -11,6 +11,8 @@ format: html
 * **Supervisors:** [Camille Coron](https://camillecoron.github.io/) and [Luis Almeida](https://www.ljll.fr/~almeida/).
 
 ## Research Interests
-I study stochastic tools such as branching processes, birth-death processes, and stochastic diffusion to model the behavior of insect populations, specifically *Aedes polynesiensis*, based on data from the Tetiaroa atoll. 
+My research focuses on the control of a given population using Sterile Insect Technique (SIT) or Incompatible Insect Technique (IIT) using stochastic models.
 
-My research focuses on studying the conditions for extinction or control of extinction of a given population using Sterile Insect Technique (SIT) or Incompatible Insect Technique (IIT).
+My work aims to understand the dynamics of these populations, with properties such as extinction, reemergence, and the impact of environmental covariables on the population dynamics.
+
+I study stochastic tools such as branching processes, birth-death processes and their limiting behavior, such as deterministic systems and stochastic diffusion models. Specifically, I focus on the *Aedes* genus, using real data from the Tetiaroa atoll.
