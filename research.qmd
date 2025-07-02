@@ -4,7 +4,7 @@ format: html
 ---
 
 ## My PhD
-* **Subject:** Stochastic and deterministic modeling of insect population control by releasing sterile males - Applications in agro-ecology and epidemiology.
+* **Subject:** Stochastic and deterministic modeling of insect population control by sterile males releasing - Applications in agro-ecology and epidemiology.
 
 * Started on October 2024.
 
