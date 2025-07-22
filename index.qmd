@@ -18,7 +18,8 @@ about:
     - icon: envelope
       text: Email
       href: mailto:leo.micollet@inrae.fr
-
+<meta name="google-site-verification" content="Zh7_qSAdpB87ztQ6xBF9-gHwGmldTHJEF7CRc8Xk6yI"/>
+<meta property="og:locale" content="{{ site.locale | default: "en" }}">
 ---
 
 Currently doing a PhD in applied mathematics for biology at [MIA-PS](https://mia-ps.inrae.fr/node/807) 
