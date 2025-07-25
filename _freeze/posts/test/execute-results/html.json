@@ -1,0 +1,12 @@
+{
+  "hash": "7619e65fc33b6be90ff82647466dc18b",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: Just a test post\njupyter: python3\ncategories:\n    - test\n\nnumber-sections: true\n---\n\n# Introduction\n\nLet's start with a glorious mosquito pic from Wikipedia\n\n![Mosquito from Wikipedia](../img/repro.jpeg){#fig-mosquito}\n\n## What is it about ?\n\nThis is just to check the possibilities in pages. The goal is to talk about math of course, but also historical and biological aspects. I need to write math(see @eq-jumpSDE), but also code (see @lst-world) and include images (see @fig-mosquito).\n\nFor instance, a beautiful integral using Point measure:\n$$\n\\int_{\\mathbb{R}^d}\\int_{\\mathbb{R_+}} \\mathbb{1}_{\\lambda(x)\\leq \\theta} \\, dN(\\theta,x) = 1\n$${#eq-jumpSDE}\n\nAnd a little bit of python code, just to check if it can work:\n\n::: {#9bf9d510 .cell execution_count=1}\n``` {#lst-world .python .cell-code lst-cap=\"can the world see me ?\"}\nprint(\"hello world\")\n```\n\n::: {.cell-output .cell-output-stdout}\n```\nhello world\n```\n:::\n:::\n\n\nIt's working, thx Julian !\n\n",
+    "supporting": [
+      "test_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

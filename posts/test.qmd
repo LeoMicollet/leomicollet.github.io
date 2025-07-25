@@ -1,0 +1,32 @@
+---
+title: Just a test post
+jupyter: python3
+categories:
+    - test
+
+number-sections: true
+---
+# Introduction
+
+Let's start with a glorious mosquito pic from Wikipedia
+
+![Mosquito from Wikipedia](../img/repro.jpeg){#fig-mosquito}
+
+## What is it about ?
+
+This is just to check the possibilities in pages. The goal is to talk about math of course, but also historical and biological aspects. I need to write math(see @eq-jumpSDE), but also code (see @lst-world) and include images (see @fig-mosquito).
+
+For instance, a beautiful integral using Point measure:
+$$
+\int_{\mathbb{R}^d}\int_{\mathbb{R_+}} \mathbb{1}_{\lambda(x)\leq \theta} \, dN(\theta,x) = 1
+$${#eq-jumpSDE}
+
+And a little bit of python code, just to check if it can work:
+```{python}
+#| lst-label: lst-world
+#| lst-cap: can the world see me ?
+
+print("hello world")
+```
+
+The code is working, thx Julian !

@@ -1,0 +1,13 @@
+# options specified here will apply to all posts in this folder
+
+# re-render posts only when a change to the source file is made ----
+freeze: auto
+
+author:
+  name: Leo Micollet
+  email: leo.micollet@agroparistech.fr
+  affiliation: MIA Paris-Saclay, INRAE, AgroParisTech, Université Paris-Saclay
+  orcid: 0009-0008-5763-9506
+
+# enable banner style title blocks ----
+title-block-banner: true

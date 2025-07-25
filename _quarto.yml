@@ -2,6 +2,9 @@ project:
   type: website
   output-dir: docs
 
+execute:
+  kernel: quarto-env
+
 website:
   title: "Leo Micollet"
   favicon: img/lost_BMO.png

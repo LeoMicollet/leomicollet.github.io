@@ -107,9 +107,9 @@
   {
     "objectID": "blog.html",
     "href": "blog.html",
-    "title": "Blog",
+    "title": "Posts",
     "section": "",
-    "text": "Here, I’ll try to write about my research, mathematics, biological and/or historical aspects, or anything else that I find interesting.\nFor now it is empty, but not for long I hope."
+    "text": "Here, I’ll try to write about my research, mathematics, biological and/or historical aspects, or anything else that I find interesting.\nFor now it is empty, but not for long I hope.\n\n\n\n\n\n\n\n\n\n\n\n\nJust a test post\n\n\n\ntest\n\n\n\n\n\n\n\nLeo Micollet\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "blog.html#academic-year-2025-2026",
@@ -117,5 +117,19 @@
     "title": "Blog",
     "section": "Academic Year 2025-2026",
     "text": "Academic Year 2025-2026"
+  },
+  {
+    "objectID": "posts/test.html",
+    "href": "posts/test.html",
+    "title": "Just a test post",
+    "section": "",
+    "text": "Let’s start with a glorious mosquito pic from Wikipedia\n\n\n\n\n\n\nFigure 1: Mosquito from Wikipedia\n\n\n\n\n\nThis is just to check the possibilities in pages. The goal is to talk about math of course, but also historical and biological aspects. I need to write math(see Equation 1), but also code (see Listing 1) and include images (see Figure 1).\nFor instance, a beautiful integral using Point measure: \\[\n\\int_{\\mathbb{R}^d}\\int_{\\mathbb{R_+}} \\mathbb{1}_{\\lambda(x)\\leq \\theta} \\, dN(\\theta,x) = 1\n\\tag{1}\\]\nAnd a little bit of python code, just to check if it can work:\n\n\n\n\nListing 1: can the world see me ?\n\n\nprint(\"hello world\")\n\n\n\n\nhello world\n\n\nIt’s working, thx Julian !"
+  },
+  {
+    "objectID": "posts/test.html#what-is-it-about",
+    "href": "posts/test.html#what-is-it-about",
+    "title": "Just a test post",
+    "section": "",
+    "text": "This is just to check the possibilities in pages. The goal is to talk about math of course, but also historical and biological aspects. I need to write math(see Equation 1), but also code (see Listing 1) and include images (see Figure 1).\nFor instance, a beautiful integral using Point measure: \\[\n\\int_{\\mathbb{R}^d}\\int_{\\mathbb{R_+}} \\mathbb{1}_{\\lambda(x)\\leq \\theta} \\, dN(\\theta,x) = 1\n\\tag{1}\\]\nAnd a little bit of python code, just to check if it can work:\n\n\n\n\nListing 1: can the world see me ?\n\n\nprint(\"hello world\")\n\n\n\n\nhello world\n\n\nIt’s working, thx Julian !"
   }
 ]
