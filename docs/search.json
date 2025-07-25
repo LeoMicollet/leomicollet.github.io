@@ -81,7 +81,7 @@
     "href": "about.html#where-am-i-from",
     "title": "Who am I?",
     "section": "Where am I from?",
-    "text": "Where am I from?\n\nEngineering degree from ENSTA Paris with a research Master’s (M2 MSV - Mathematics for Life Sciences) from Université Paris Saclay.\nPrépa TSI at Lazaristes.\nBac STI2D, c la débrouille."
+    "text": "Where am I from?\n\nEngineering degree from ENSTA Paris, promo 2023.5, with a research Master’s (M2 MSV - Mathematics for Life Sciences) from Université Paris Saclay and Institut Polytechnique de Paris.\nCPGE TSI at Lazaristes."
   },
   {
     "objectID": "research.html#research-interests",
@@ -96,5 +96,26 @@
     "title": "Teachings",
     "section": "",
     "text": "Teaching Assistant for Statistics (33 hours) for first-year students at AgroParisTech.\nTeaching Assistant for the course “Data Science: Statistical Learning” (7.5 hours) for second-year students at AgroParisTech."
+  },
+  {
+    "objectID": "blog.html#academic-year-2024-2025",
+    "href": "blog.html#academic-year-2024-2025",
+    "title": "Blog",
+    "section": "Academic Year 2024-2025",
+    "text": "Academic Year 2024-2025\n\nTeaching Assistant for Statistics (33 hours) for first-year students at AgroParisTech.\nTeaching Assistant for the course “Data Science: Statistical Learning” (19.5 hours) for second-year students at AgroParisTech.\nTeaching Assistant for the course “Modeling and Analysis of Environmental Data in R” (6 hours) for second-year students at AgroParisTech."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Here, I’ll try to write about my research, mathematics, biological and/or historical aspects, or anything else that I find interesting.\nFor now it is empty, but not for long I hope."
+  },
+  {
+    "objectID": "blog.html#academic-year-2025-2026",
+    "href": "blog.html#academic-year-2025-2026",
+    "title": "Blog",
+    "section": "Academic Year 2025-2026",
+    "text": "Academic Year 2025-2026"
   }
 ]

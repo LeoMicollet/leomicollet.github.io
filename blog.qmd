@@ -1,0 +1,8 @@
+---
+title: "Blog"
+format: html
+---
+
+Here, I'll try to write about my research, mathematics, biological and/or historical aspects, or anything else that I find interesting.
+
+For now it is empty, but not for long I hope.

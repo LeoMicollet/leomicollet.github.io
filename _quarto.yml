@@ -11,6 +11,7 @@ website:
         #text: Home
       - research.qmd
       - teachings.qmd
+      - blog.qmd
     right:
       - about.qmd
   #page-footer:
