@@ -3,16 +3,20 @@ title: "Research"
 format: html
 ---
 
-## My PhD
+# My PhD
 * **Subject:** Stochastic and deterministic modeling of insect population control by sterile males releasing - Applications in agro-ecology and epidemiology.
 
 * Started on October 2024.
 
 * **Supervisors:** [Camille Coron](https://camillecoron.github.io/) and [Luis Almeida](https://www.ljll.fr/~almeida/).
 
-## Research Interests
-My research focuses on the control of a given population using Sterile Insect Technique (SIT) or Incompatible Insect Technique (IIT) using stochastic models.
+## Research interests
 
-My work aims to understand the dynamics of these populations, with properties such as extinction, reemergence, and the impact of environmental covariables on the population dynamics.
+I aim to understand the dynamics of mosquito populations, with properties such as extinction, reemergence, and the impact of environmental factors on the population dynamics. Specifically, I focus on the *Aedes* genus, using real-world data.
 
-I study stochastic tools such as branching processes, birth-death processes and their limiting behavior, such as deterministic systems and stochastic diffusion models. Specifically, I focus on the *Aedes* genus, using real data from the Tetiaroa atoll.
+I use mathematical tools such as branching processes, stochastic compartmental models and their limiting behavior, such as deterministic systems and stochastic diffusion. 
+
+
+# Publications
+
+WIP

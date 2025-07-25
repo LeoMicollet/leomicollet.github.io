@@ -25,14 +25,14 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Subject: Stochastic and deterministic modeling of insect population control by sterile males releasing - Applications in agro-ecology and epidemiology.\nStarted on October 2024.\nSupervisors: Camille Coron and Luis Almeida."
+    "text": "Subject: Stochastic and deterministic modeling of insect population control by sterile males releasing - Applications in agro-ecology and epidemiology.\nStarted on October 2024.\nSupervisors: Camille Coron and Luis Almeida.\n\n\n\nI aim to understand the dynamics of mosquito populations, with properties such as extinction, reemergence, and the impact of environmental factors on the population dynamics. Specifically, I focus on the Aedes genus, using real-world data.\nI use mathematical tools such as branching processes, stochastic compartmental models and their limiting behavior, such as deterministic systems and stochastic diffusion."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Leo Micollet",
     "section": "",
-    "text": "Currently doing a PhD in applied mathematics for biology at MIA-PS\nFor now, this website is empty. Restez branché."
+    "text": "I am currently pursuing a PhD in applied mathematics, specializing in the stochastic and deterministic modeling of population dynamics and control strategies.\nI am a part of the MIA-PS team at INRAE in Saclay.\nFor now, this website is empty. Restez branché."
   },
   {
     "objectID": "about.html#what-do-i-like",
@@ -87,8 +87,8 @@
     "objectID": "research.html#research-interests",
     "href": "research.html#research-interests",
     "title": "Research",
-    "section": "Research Interests",
-    "text": "Research Interests\nMy research focuses on the control of a given population using Sterile Insect Technique (SIT) or Incompatible Insect Technique (IIT) using stochastic models.\nMy work aims to understand the dynamics of these populations, with properties such as extinction, reemergence, and the impact of environmental covariables on the population dynamics.\nI study stochastic tools such as branching processes, birth-death processes and their limiting behavior, such as deterministic systems and stochastic diffusion models. Specifically, I focus on the Aedes genus, using real data from the Tetiaroa atoll."
+    "section": "",
+    "text": "I aim to understand the dynamics of mosquito populations, with properties such as extinction, reemergence, and the impact of environmental factors on the population dynamics. Specifically, I focus on the Aedes genus, using real-world data.\nI use mathematical tools such as branching processes, stochastic compartmental models and their limiting behavior, such as deterministic systems and stochastic diffusion."
   },
   {
     "objectID": "teachings.html#academic-year-2025-2026",
@@ -131,5 +131,12 @@
     "title": "Just a test post",
     "section": "",
     "text": "This is just to check the possibilities in pages. The goal is to talk about math of course, but also historical and biological aspects. I need to write math(see Equation 1), but also code (see Listing 1) and include images (see Figure 1).\nFor instance, a beautiful integral using Point measure: \\[\n\\int_{\\mathbb{R}^d}\\int_{\\mathbb{R_+}} \\mathbb{1}_{\\lambda(x)\\leq \\theta} \\, dN(\\theta,x) = 1\n\\tag{1}\\]\nAnd a little bit of python code, just to check if it can work:\n\n\n\n\nListing 1: can the world see me ?\n\n\nprint(\"hello world\")\n\n\n\n\nhello world\n\n\nThe code is working, thx Julian !"
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "Leo Micollet",
+    "section": "News",
+    "text": "News\n\nI will be part of Finist’R 2025."
   }
 ]

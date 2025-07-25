@@ -1,8 +1,9 @@
 ---
+# Don't forget when modifying this page <meta name="google-site-verification" content="Zh7_qSAdpB87ztQ6xBF9-gHwGmldTHJEF7CRc8Xk6yI"/> <meta property="og:locale" content="{{ site.locale | default: "en" }}">
 image : img/SunnyMe.jpg
 toc: false
 about: 
-  template: solana
+  template: trestles
   image-shape: round
   image-width: 17em
   links:
@@ -19,6 +20,14 @@ about:
       href: mailto:leo.micollet@inrae.fr
 ---
 
-Currently doing a PhD in applied mathematics for biology at [MIA-PS](https://mia-ps.inrae.fr/node/807) 
+I am currently pursuing a PhD in applied mathematics, specializing in the stochastic and deterministic modeling of population dynamics and control strategies. 
+
+I am a part of the [MIA-PS](https://mia-ps.inrae.fr/node/807) team at [INRAE](https://www.inrae.fr/en) in Saclay.
+
 
 For now, this website is empty. Restez branché.
+
+## News
+
+- I will be part of Finist'R 2025. 
+
