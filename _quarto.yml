@@ -9,9 +9,8 @@ website:
   title: "Leo Micollet"
   favicon: img/lost_BMO.png
   navbar:
+    title: "Leo Micollet"
     left:
-      - href: index.qmd
-        #text: Home
       - research.qmd
       - teachings.qmd
       - blog.qmd

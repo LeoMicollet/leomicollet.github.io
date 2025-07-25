@@ -1,5 +1,4 @@
 ---
-title: "Home"
 image : img/SunnyMe.jpg
 toc: false
 about: 
